@@ -1,0 +1,71 @@
+{
+  "title": "Banana bread by Good Food Team",
+  "description": "A cross between banana bread and a drizzle cake, this easy banana loaf recipe is a quick bake that can be frozen. It's great for using up overripe bananas, too.",
+  "servings": "1 people",
+  "prep_time": 15,
+  "cook_time": 50,
+  "ingredients": [
+    {
+      "name": "butter, softened, plus extra for the tin",
+      "quantity": "140g"
+    },
+    {
+      "name": "caster sugar",
+      "quantity": "140g"
+    },
+    {
+      "name": "large eggs, beaten",
+      "quantity": "2"
+    },
+    {
+      "name": "baking powder",
+      "quantity": "1 tsp"
+    },
+    {
+      "name": "very ripe bananas, mashed",
+      "quantity": "2"
+    },
+    {
+      "name": "icing sugar",
+      "quantity": "50g"
+    },
+    {
+      "name": "handful dried banana chips, for decoration",
+      "quantity": "5+"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "direction": "Heat oven to 180C/160C fan/gas 4."
+    },
+    {
+      "step": 2,
+      "direction": "Butter a 2lb loaf tin and line the base and sides with baking parchment."
+    },
+    {
+      "step": 3,
+      "direction": "Cream 140g softened butter and 140g caster sugar until light and fluffy, then slowly add 2 beaten large eggs with a little of the 140g flour."
+    },
+    {
+      "step": 4,
+      "direction": "Fold in the remaining flour, 1 tsp baking powder and 2 mashed bananas."
+    },
+    {
+      "step": 5,
+      "direction": "Pour the mixture into the prepared tin and bake for about 50 mins, or until cooked through. Check the loaf at 5-min intervals from around 30-40 mins in the oven by testing it with a skewer (it should be able to be inserted and removed cleanly), as the time may vary depending on the shape of your loaf tin."
+    },
+    {
+      "step": 6,
+      "direction": "Cool in the tin for 10 mins, then remove to a wire rack."
+    },
+    {
+      "step": 7,
+      "direction": "Mix 50g icing sugar with 2-3 tsp water to make a runny icing."
+    },
+    {
+      "step": 8,
+      "direction": "Drizzle the icing across the top of the cake and decorate with a handful of banana chips."
+    }
+  ]
+}
