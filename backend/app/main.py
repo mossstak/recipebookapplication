@@ -12,6 +12,7 @@ app = FastAPI()
 origins = [
     "http://localhost:5173",
     "http://localhost:8000",
+    "https://recipebookapplication.vercel.app"
 ]
 
 app.add_middleware(
